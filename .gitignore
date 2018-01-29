@@ -1,2 +1,5 @@
 *.class
 *.log
+src/main/resources/salesforce.conf
+project/target/
+target/
